@@ -12,7 +12,7 @@ Setup
  - virtualenv --no-site-packages venv
  - source venv/bin/activate
  - pip install -r req_pip.txt
- - python <filename>
+ - python [filename]
 
 
 
